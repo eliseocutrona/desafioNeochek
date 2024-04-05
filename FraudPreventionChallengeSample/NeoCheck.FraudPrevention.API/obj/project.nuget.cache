@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rACmfxj2VeN8KLD3SC+us1UR5czl9hyIt6TEQToXEhJkXuGHrUNMO/j2Fepz8RODEWtSRwdv+fXhpVu7TMQxgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Escritorio\\Eliseo\\Fraud Prevention Challenge\\desafioNeochek\\FraudPreventionChallengeSample\\NeoCheck.FraudPrevention.API\\NeoCheck.FraudPrevention.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elise\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\elise\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\elise\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\elise\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
